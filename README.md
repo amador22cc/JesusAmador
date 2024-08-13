@@ -1,4 +1,4 @@
-##Hi,i'm Jesus Amador,an <a href="https://linkedin.com/inJesus-amador-6785a9252">IT Professional</a>☺</h1>
+##Hi,i'm Jesus Amador,an <a href="https://linkedin.com/inJesus-amador-6785a9252/">IT Professional</a></h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 - <b>osTicket (Help Desk Ticketing System)</b>
